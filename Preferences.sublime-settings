@@ -1,0 +1,45 @@
+{
+	"auto_complete_delay": 30,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - amCoder/amCoder.tmTheme",
+	"enable_tab_scrolling": false,
+	"font_size": 10.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"Blügel",
+		"Essin",
+		"Freimuth",
+		"Magnetoelectric",
+		"Maxima",
+		"Mokrousov",
+		"Mossotti",
+		"Niu",
+		"Polarizability",
+		"Rashba",
+		"Wannier",
+		"ansatz",
+		"bandstructure",
+		"extremum",
+		"gauge",
+		"magnetoelectric",
+		"maxima",
+		"minima",
+		"polarizability",
+		"prefactor",
+		"rashba"
+	],
+	"margin": 128,
+	"spell_check": false,
+	"tab_completion": false,
+	"tab_size": 4,
+	"theme": "amCoder.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"use_simple_full_screen": true,
+	"wide_caret": true
+}

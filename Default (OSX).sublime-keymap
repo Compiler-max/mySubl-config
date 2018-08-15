@@ -1,0 +1,28 @@
+
+
+[
+{ "keys": ["alt+shift+p"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+{ "keys": ["ctrl+alt+p"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+{ "keys": ["ctrl+alt+u"], "command": "prompt_select_project" },
+{ "keys": ["super+a"], "command": "move", "args": {"by": "characters", "forward": false} },
+{ "keys": ["super+d"], "command": "move", "args": {"by": "characters", "forward": true} },
+{ "keys": ["super+w"], "command": "move", "args": {"by": "lines", "forward": false} },
+{ "keys": ["super+s"], "command": "move", "args": {"by": "lines", "forward": true} },
+{ "keys": ["alt+t"], "command": "move_to", "args": {"to": "hardeol", "extend": false} },
+
+
+
+{ "keys": ["ctrl+shift+up"], "command": "scroll_lines", "args": {"amount": 1.0} },
+{ "keys": ["ctrl+shitt+down"], "command": "scroll_lines", "args": {"amount": -1.0} },
+
+{ "keys": ["shift+alt+up"], "command": "select_lines", "args": {"forward": false} },
+{ "keys": ["shift+alt+down"], "command": "select_lines", "args": {"forward": true} },
+
+{ "keys": ["alt+l"], "command": "expand_selection", "args": {"to": "line"} },
+{ "keys": ["alt+f"], "command": "show_panel", "args": {"panel": "find"} },
+
+{ "keys": ["ctrl+s"], "command": "save" },
+
+{ "keys": ["ctrl+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} }
+
+]

@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"CMake",
+		"CMakeEditor",
+		"Git",
+		"Github Tools",
+		"MinimalFortran",
+		"Package Control",
+		"Theme - amCoder"
+	]
+}
